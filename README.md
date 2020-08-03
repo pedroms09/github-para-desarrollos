@@ -1,6 +1,6 @@
 # Github para proyectos y desarrollos
 
-github para desarrollos
+Prueba
 
 [LinkedIn](https://www.linkedin.com/in/pedro-morales-/)
 
